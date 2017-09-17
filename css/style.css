@@ -1,3 +1,7 @@
+/*  Unit 3 Project | Excursion
+      September 17, 2017
+      Michael C. Wedge
+      Prytania Cloud Solutions --> */
 
 .page  {
 
@@ -50,8 +54,10 @@ img  {
 
 footer  {
 
-  color: gray;
+  font-family: Helvetica;
+  color: White;
+  background-color: dimgray;
   font-weight: normal;
   text-align: right;
-  font-size: 21px;
+  font-size: 11px;
 }
